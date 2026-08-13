@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Full-Stack Developer at **Sava Info Systems**, transitioning into DevOps & cloud engineering.
+Working as A Full-Stack Developer, transitioning into DevOps & cloud engineering.
 
 I build software, automate deployments, and enjoy working with infrastructure.
 
