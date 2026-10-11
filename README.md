@@ -1,4 +1,6 @@
-### DevOps Engineer focused on cloud infrastructure, deployment automation, and CI/CD.
+## Hitesh Kumar
+
+DevOps Engineer focused on cloud infrastructure, deployment automation, and CI/CD.
 
 I combine software development experience with infrastructure, automation, and cloud technologies to build and deploy reliable applications.
 
