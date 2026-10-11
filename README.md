@@ -1,10 +1,9 @@
-### Hello there 👋
+### DevOps Engineer focused on cloud infrastructure, deployment automation, and CI/CD.
 
-Working as A Full-Stack Developer, transitioning into DevOps & cloud engineering.
+I combine software development experience with infrastructure, automation, and cloud technologies to build and deploy reliable applications.
 
-I build software, automate deployments, and enjoy working with infrastructure.
-
-* ⚙️ I work with: `.js`, `.ts`, `.html`, `.css`, `.sql`, `.yml`, `.sh`
-* 💻 Experienced with Angular, React, Node.js, Fastify, Express & MongoDB
-* ☁️ Interested in DevOps, cloud, infrastructure, CI/CD & automation
-* 🌱 Transitioning towards DevOps & cloud engineering
+- ⚙️ I work with: `Docker`, `Linux`, `Terraform`, `AWS`, `YAML`, `Bash`
+- ☁️ Cloud & Infrastructure: AWS, cloud networking & Infrastructure as Code
+- 🚀 CI/CD & Automation: GitHub Actions, Drone CI & deployment pipelines
+- 💻 Development Background: Node.js, Angular, React, Fastify, Express & MongoDB
+- 🔧 Interested in infrastructure automation, cloud engineering, reliability & DevOps practices
